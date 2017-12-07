@@ -1,0 +1,24 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "Node Based weather Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harsha444/weather-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harsha444/weather-app/issues"
+  },
+  "homepage": "https://github.com/harsha444/weather-app#readme",
+  "dependencies": {
+    "nodemon": "^1.12.5",
+    "request": "^2.83.0",
+    "yargs": "^10.0.3"
+  }
+}
