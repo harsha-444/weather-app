@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/harsha444/weather-app#readme",
   "dependencies": {
+    "axios": "^0.17.1",
     "nodemon": "^1.12.5",
     "request": "^2.83.0",
     "yargs": "^10.0.3"
